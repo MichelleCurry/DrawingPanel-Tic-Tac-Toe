@@ -2,7 +2,7 @@ import java.awt.*;
 import java.util.*;
 import javax.swing.*;
 
-public class Lab8Drawn{
+public class ticTacToeDrawn{
 
    static Scanner CONSOLE = new Scanner(System.in); 
    static String MOON_PATH = "moon.jpg";
